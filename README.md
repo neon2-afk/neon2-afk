@@ -30,7 +30,7 @@ Beni bulabileceğin yerler:
 Eğer başka bir yerde karşılaşırsak, “aaa bu sensin demek” deme ihtimalin yüksek. 😄
 mailimden ulaşabilirsiniz
 ---
-# Hey there! I'm neon2-afk 👋
+# Hey there! I'm Hakan 👋
 
 A developer/electronics enthusiast lost somewhere between code and circuits.  
 While I'm more on the backend side, my heart beats for embedded systems and electronics. Not bad at Python, and currently learning Rust and C.  
