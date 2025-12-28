@@ -1,4 +1,4 @@
-# Selam! Ben Hakan 👋
+# Selam! Ben Hakan 
 
 Kodun ve devrelerin arasında kaybolmuş bir yazılımcı/elektronikçi.  
 Backend dünyasına yakın olsam da gönlüm embedded systems ve elektronikten yana. Python’da fena sayılmam, Rust ve C ise hâlâ öğrenme aşamasında.  
@@ -6,11 +6,11 @@ Kısacası, hem yazılımı hem donanımı seviyorum; “hadi şunu çalıştır
 
 ## Neler Yaparım?
 
-- 🕹️ Gömülü sistemler ve elektronik projeleriyle uğraşırım.
-- 🐍 Python'da keyifli scriptler yazarım.
-- 🦀 Rust ve C ile boğuşuyorum, öğreniyorum.
-- 🎨 Görsel sanatlara göz kırparım, bazen çizim yaparım.
-- 🎮 Oyun, 🎵 müzik, 🐧 Linux ve tabii ki yazılım — hepsi benim dünyamda!
+- Gömülü sistemler ve elektronik projeleriyle uğraşırım.
+- Python'da keyifli scriptler yazarım.
+- Rust ve C ile boğuşuyorum, öğreniyorum.
+- Görsel sanatlara göz kırparım, bazen çizim yaparım.
+- Oyun, müzik, 🐧 Linux ve tabii ki yazılım — hepsi benim dünyamda!
 
 ## Projelerim
 
@@ -27,10 +27,10 @@ Kısacası, hem yazılımı hem donanımı seviyorum; “hadi şunu çalıştır
 > “Kod yazmak, devre kurmak, hata ayıklamak… Hepsi birer sanat bence.”
 
 Beni bulabileceğin yerler:  
-Eğer başka bir yerde karşılaşırsak, “aaa bu sensin demek” deme ihtimalin yüksek. 😄
+Eğer başka bir yerde karşılaşırsak, “aaa bu sensin demek” deme ihtimalin yüksek. 
 mailimden ulaşabilirsiniz
 ---
-# Hey there! I'm Hakan 👋
+# Hey there! I'm Hakan 
 
 A developer/electronics enthusiast lost somewhere between code and circuits.  
 While I'm more on the backend side, my heart beats for embedded systems and electronics. Not bad at Python, and currently learning Rust and C.  
@@ -38,11 +38,11 @@ Long story short: I love both software and hardware; I often find myself losing 
 
 ## What Do I Do?
 
-- 🕹️ I tinker with embedded systems and electronic projects.
-- 🐍 Write fun scripts in Python.
-- 🦀 Wrestling (and learning!) with Rust and C.
-- 🎨 Into visual arts, I sometimes draw.
-- 🎮 Gaming, 🎵 music, 🐧 Linux, and of course, coding — all part of my world!
+- I tinker with embedded systems and electronic projects.
+- Write fun scripts in Python.
+- Wrestling (and learning!) with Rust and C.
+- Into visual arts, I sometimes draw.
+- Gaming, music, 🐧 Linux, and of course, coding — all part of my world!
 
 ## My Projects
 
@@ -59,6 +59,6 @@ Long story short: I love both software and hardware; I often find myself losing 
 > “Coding, building circuits, debugging... It's all art to me.”
 
 Where to find me:  
-If you run into me somewhere else, chances are high you'll say, “Hey, so that's you!” 😄  
+If you run into me somewhere else, chances are high you'll say, “Hey, so that's you!”   
 You can also reach me via email.
 ---
